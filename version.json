@@ -1,8 +1,8 @@
 {
-    "versionCode":  23,
-    "versionName":  "1.0.21",
-    "apkUrl":  "https://github.com/snoboae/geomappingsurvey-release/releases/download/v1.0.21/app-release.apk",
-    "sha256":  "6093f6862f6ada799fc7d765941e1073c60a6e702f5b4b086ecf5bd9fc0cff8d",
+    "versionCode":  25,
+    "versionName":  "1.0.23",
+    "apkUrl":  "https://github.com/snoboae/geomappingsurvey-release/releases/download/v1.0.23/app-release.apk",
+    "sha256":  "6d080389aa48ea7258199a6a6870a5b125d32cb228dc4437cd5b159e8ed07617",
     "notas":  "Mejoras y correcciones.",
     "obligatoria":  false
 }
